@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет! 👋 Я Мира  
 
-<!--
-**Ventemanna/Ventemanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 21 год, Python backend-разработчик  
+💻 Выпускница колледжа ВФ ВолГУ (Информационные системы и программирование)  
+📚 Сейчас учусь в образовательном проекте [Школе 21](https://21-school.ru/) от Сбера  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Стек и инструменты:
+- Python (Django, FastAPI)  
+- SQL (PostgreSQL) 
+- Git
+- Docker, Docker Compose
+- RESTful API
+- Linux
+
+---
+
+### 🚀 Чем интересуюсь:
+- Архитектура backend-систем  
+- Оптимизация и производительность
+- Open Source и pet-проекты  
+
+---
+
+### 📫 Как связаться со мной:
+- [Telegram](https://t.me/Ventumanna)  
+
+---
+✨ Буду рада сотрудничеству и новым интересным проектам!
