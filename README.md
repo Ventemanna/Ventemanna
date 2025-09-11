@@ -14,6 +14,8 @@
 - RESTful API
 - Linux
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventemanna&layout=compact)](https://github.com/ventemanna/github-readme-stats)
+
 ---
 
 ### 🚀 Чем интересуюсь:
